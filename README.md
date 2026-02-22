@@ -24,33 +24,33 @@ MovieBase to aplikacja webowa typu SPA (Single Page Application) stworzona w Rea
 
 ## 📁 Struktura projektu
 
-
+```bash
 src/
 │
-├── app/ # Główna konfiguracja aplikacji
-│ └── App.jsx
+├── app/                 # Główna konfiguracja aplikacji
+│   └── App.jsx
 │
-├── router/ # Konfiguracja routingu
-│ └── AppRouter.jsx
+├── router/              # Konfiguracja routingu
+│   └── AppRouter.jsx
 │
-├── pages/ # Widoki aplikacji
-│ ├── HomePage.jsx
-│ ├── LoginPage.jsx
-│ ├── RegisterPage.jsx
-│ ├── ProfilePage.jsx
-│ └── NotFoundPage.jsx
+├── pages/               # Widoki aplikacji
+│   ├── HomePage.jsx
+│   ├── LoginPage.jsx
+│   ├── RegisterPage.jsx
+│   ├── ProfilePage.jsx
+│   └── NotFoundPage.jsx
 │
 ├── components/
-│ └── layout/
-│ └── MainLayout.jsx
+│   └── layout/
+│       └── MainLayout.jsx
 │
-├── context/ # Globalny stan aplikacji
-│ └── AuthContext.jsx
+├── context/             # Globalny stan aplikacji
+│   └── AuthContext.jsx
 │
-├── styles/ # Style aplikacji
+├── styles/              # Style aplikacji
 │
-└── main.jsx # Punkt wejścia aplikacji
-
+└── main.jsx             # Punkt wejścia aplikacji
+```
 
 ---
 
