@@ -1,8 +1,13 @@
 # 🎬 MovieBase
 
+![React](https://img.shields.io/badge/React-18-blue)
+![Vite](https://img.shields.io/badge/Vite-7-yellow)
+![Status](https://img.shields.io/badge/status-development-orange)
+
 MovieBase to aplikacja webowa typu SPA (Single Page Application) stworzona w React, umożliwiająca zarządzanie bazą filmów oraz obsługę użytkowników.
 
-Projekt realizowany w ramach przedmiotu projektowego.
+> Projekt realizowany w ramach zajęć projektowych.
+> Status: Development
 
 ---
 
